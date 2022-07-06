@@ -1,0 +1,8 @@
+#ignoring figures
+*.fig
+
+#ignore autosave files
+*.m~
+
+#ignore figure files
+*.eps
